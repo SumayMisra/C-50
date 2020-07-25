@@ -1,0 +1,14 @@
+ h1{
+        color:blue
+}
+ p{
+        color:chartreuse
+ }
+*{
+        border:solid;
+ }
+.header{
+   background-color: aqua; 
+   display: flex;
+   justify-content:;
+}
